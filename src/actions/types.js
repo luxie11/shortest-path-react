@@ -1,0 +1,15 @@
+export const CHANGE_ROWS = 'CHANGE_ROWS';
+export const CHANGE_COLUMNS = 'CHANGE_COLUMNS';
+export const INPUT_ERROR = 'INPUT_ERROR';
+export const SUBMIT_INPUT = 'SUBMIT_INPUT';
+export const GENERATE_SQUARES = 'GENERATE_SQUARES';
+export const CLICK_SQUARE = 'CLICK_SQUARE';
+export const CLEAR_SQUARES = 'CLEAR_SQUARES';
+export const CREATE_START_INDEX = 'CREATE_START_INDEX';
+export const CREATE_END_INDEX = 'CREATE_END_INDEX';
+export const ADD_TO_PATH = 'ADD_TO_PATH';
+export const SAVE_PATH = 'SAVE_PATH';
+export const CLEAR_PATH = 'CLEAR_PATH';
+export const SAVE_SHORTEST_PATH = 'SAVE_SHORTEST_PATH';
+export const CLEAR_LAST_GRID = 'CLEAR_LAST_GRID';
+export const REMOVE_GRID = 'REMOVE_GRID';
