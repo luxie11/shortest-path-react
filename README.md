@@ -1,5 +1,5 @@
 <h2>Project</h2>
-    An application used to find shortest path made by user clicking blocks from start (green block) to the end (dark green block). App built with React, Redux.
+    An application used to find shortest path made by user clicking blocks from start (green block) to the end (dark green block), if there is two paths. Shortest path colored orange. App built with React, Redux.
 
 
 <h2>Installation and Setup Instructions</h2>
