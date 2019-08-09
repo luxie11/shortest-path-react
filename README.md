@@ -8,14 +8,6 @@
 
   Clone down this repository. You will need node and npm installed globally on your machine.
 
-<b>Installation:</b>
-
-  npm install
-
-<b>To Run Test Suite:</b>
-
-  npm test
-
 <b>To Start Server:</b>
 
   npm start
