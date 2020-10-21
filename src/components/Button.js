@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Button = (props) =>{
-    return(
+    return (
         <React.Fragment>
             <button className={`btn ${props.color}`} onClick={props.onClick}>Generate</button>
         </React.Fragment>

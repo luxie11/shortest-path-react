@@ -4,7 +4,9 @@ const LabelledInput = (props) =>{
 
     return(
         <div className="labeled-input">
-            <label>{props.label}</label>
+            <label>
+                {props.label}
+            </label>
             <input name={props.name} defaultValue={props.value} />
         </div>
     )
