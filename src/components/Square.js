@@ -102,7 +102,8 @@ class Square extends React.Component{
                 onClick={(event) => {
                    this.onClickDiv(event)
                 }}
-            ></div>
+            >
+            </div>
         )
     }
 }

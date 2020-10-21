@@ -1,6 +1,4 @@
 
-.app-container{
-}
 .app-header{
     margin-bottom: 25px;
 }
@@ -160,9 +158,6 @@
     color:rgb(102, 102, 102);
 }
 
-
-
 .square{
     border: 1px solid rgb(218, 218, 218);    
 }
-
